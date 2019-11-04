@@ -1,4 +1,5 @@
 # Lunar Mobile Console Patches
+- lunar-console-full-1.6.3-patch: fixes [lunar-unity-console/issues/149](https://github.com/SpaceMadness/lunar-unity-console/issues/149)  
 - lunar-console-full-1.6.1-patch: fixes [lunar-unity-console/issues/122](https://github.com/SpaceMadness/lunar-unity-console/issues/140)  
 - lunar-console-full-1.5.6-patch: fixes [lunar-unity-console/issues/122](https://github.com/SpaceMadness/lunar-unity-console/issues/122)  
 - lunar-console-patch-1.5.5: fixes [lunar-unity-console/issues/113](https://github.com/SpaceMadness/lunar-unity-console/issues/113)  
